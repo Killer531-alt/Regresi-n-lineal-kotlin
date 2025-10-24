@@ -117,8 +117,3 @@ Este proyecto está bajo la licencia **MIT**, lo que permite su libre uso, modif
 
 ---
 
-## 🌟 Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas mejorar el código o agregar nuevas funcionalidades (como regresión múltiple, visualización de datos o interfaz gráfica), crea un **pull request** o abre un **issue** en el repositorio.
-
----
